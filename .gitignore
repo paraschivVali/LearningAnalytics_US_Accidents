@@ -1,0 +1,14 @@
+# Fisiere temporare
+__pycache__/
+*.pyc
+
+# Mediu virtual
+.venv/
+
+# Fisiere mari si locale
+data/
+results/
+
+# Setari locale
+.idea/
+.vscode/
